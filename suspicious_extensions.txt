@@ -1,0 +1,8 @@
+1. PDF Toolbox
+   - Reason: Unknown developer, requires access to all website data.
+
+2. Weather Now
+   - Reason: Multiple user complaints, suspicious background activity.
+
+3. QuickTranslate
+   - Reason: Installed without user action, flagged by other users as adware.
