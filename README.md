@@ -31,8 +31,8 @@ Identify and remove suspicious or unnecessary browser extensions to improve brow
 -  Screen Shots
 
 ## 📸 Screenshots
-- `before_removal.png`
-- `after_removal.png`
+- `Screenshot_before_removal.png`
+- `Screenshot_after_removal.png`
 
 ## ✅ Outcome
 Browser is now safer and less cluttered. Learned how to audit and manage browser extensions effectively.
